@@ -1,0 +1,2 @@
+distributed os for RASPI version 1,2,3.
+Uses the USPi bare metal USB driver for the Raspberry Pi ethernet and boot up stuff (https://github.com/rsta2/uspi). The main code is under the sample directory  
